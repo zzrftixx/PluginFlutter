@@ -50,6 +50,9 @@ extensible and open development model, whether you're targeting iOS or Android,
 web, Windows, macOS, Linux or embedding it as the UI toolkit for a platform of
 your choice.
 
+![](lib/foto/Screenshot%202024-11-05%20112342.png)
+![](lib/foto/Screenshot%202024-11-05%20113137.png)
+
 ### Take a picture using the camera
 
 Cookbook
